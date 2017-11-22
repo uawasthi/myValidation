@@ -1,0 +1,17 @@
+{
+  "name": "forvalid",
+  "version": "1.0.0",
+  "description": "\"testing valid form\"",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
